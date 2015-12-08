@@ -1,0 +1,94 @@
+2015-10-26 15:12:18,704 [main           ] INFO  XBeanBrokerFactory$1           - Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@2e5c649: startup date [Mon Oct 26 15:12:18 EDT 2015]; root of context hierarchy
+2015-10-26 15:12:19,507 [main           ] INFO  BrokerService                  - Using Persistence Adapter: MemoryPersistenceAdapter
+2015-10-26 15:12:19,621 [JMX connector  ] INFO  ManagementContext              - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2015-10-26 15:12:19,655 [main           ] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-46268-1445886739523-0:1) is starting
+2015-10-26 15:12:19,672 [main           ] INFO  TransportServerThreadSupport   - Listening for connections at: tcp://vivian-Latitude-E5440:61616
+2015-10-26 15:12:19,672 [main           ] INFO  TransportConnector             - Connector openwire Started
+2015-10-26 15:12:19,782 [main           ] INFO  Server                         - jetty-7.6.7.v20120910
+2015-10-26 15:12:19,823 [main           ] INFO  ContextHandler                 - started o.e.j.s.ServletContextHandler{/,null}
+2015-10-26 15:12:19,859 [main           ] INFO  AbstractConnector              - Started SelectChannelConnector@0.0.0.0:8080
+2015-10-26 15:12:19,859 [main           ] INFO  TransportConnector             - Connector http Started
+2015-10-26 15:12:19,862 [main           ] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-46268-1445886739523-0:1) started
+2015-10-26 15:12:19,862 [main           ] INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2015-10-26 15:18:59,155 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-46268-1445886739523-0:1) is shutting down
+2015-10-26 15:19:00,097 [MQ ShutdownHook] INFO  TransportConnector             - Connector openwire Stopped
+2015-10-26 15:19:00,110 [MQ ShutdownHook] INFO  ContextHandler                 - stopped o.e.j.s.ServletContextHandler{/,null}
+2015-10-26 15:19:00,163 [MQ ShutdownHook] INFO  TransportConnector             - Connector http Stopped
+2015-10-26 15:19:00,184 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-46268-1445886739523-0:1) uptime 6 minutes
+2015-10-26 15:19:00,184 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-46268-1445886739523-0:1) is shutdown
+2015-10-26 15:21:03,780 [main           ] INFO  XBeanBrokerFactory$1           - Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@2e5c649: startup date [Mon Oct 26 15:21:03 EDT 2015]; root of context hierarchy
+2015-10-26 15:21:04,594 [main           ] INFO  BrokerService                  - Using Persistence Adapter: MemoryPersistenceAdapter
+2015-10-26 15:21:04,819 [main           ] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-50667-1445887264621-0:1) is starting
+2015-10-26 15:21:04,830 [JMX connector  ] INFO  ManagementContext              - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2015-10-26 15:21:04,867 [main           ] INFO  TransportServerThreadSupport   - Listening for connections at: tcp://vivian-Latitude-E5440:61616
+2015-10-26 15:21:04,867 [main           ] INFO  TransportConnector             - Connector openwire Started
+2015-10-26 15:21:04,953 [main           ] INFO  Server                         - jetty-7.6.7.v20120910
+2015-10-26 15:21:04,994 [main           ] INFO  ContextHandler                 - started o.e.j.s.ServletContextHandler{/,null}
+2015-10-26 15:21:05,026 [main           ] INFO  AbstractConnector              - Started SelectChannelConnector@0.0.0.0:8080
+2015-10-26 15:21:05,028 [main           ] INFO  TransportConnector             - Connector http Started
+2015-10-26 15:21:05,030 [main           ] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-50667-1445887264621-0:1) started
+2015-10-26 15:21:05,030 [main           ] INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2015-10-26 15:25:06,963 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-50667-1445887264621-0:1) is shutting down
+2015-10-26 15:25:07,126 [MQ ShutdownHook] INFO  TransportConnector             - Connector openwire Stopped
+2015-10-26 15:25:07,139 [MQ ShutdownHook] INFO  ContextHandler                 - stopped o.e.j.s.ServletContextHandler{/,null}
+2015-10-26 15:25:07,191 [MQ ShutdownHook] INFO  TransportConnector             - Connector http Stopped
+2015-10-26 15:25:07,205 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-50667-1445887264621-0:1) uptime 4 minutes
+2015-10-26 15:25:07,205 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-50667-1445887264621-0:1) is shutdown
+2015-10-26 15:28:58,399 [main           ] INFO  XBeanBrokerFactory$1           - Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@2e5c649: startup date [Mon Oct 26 15:28:58 EDT 2015]; root of context hierarchy
+2015-10-26 15:28:59,112 [main           ] INFO  BrokerService                  - Using Persistence Adapter: MemoryPersistenceAdapter
+2015-10-26 15:28:59,216 [JMX connector  ] INFO  ManagementContext              - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2015-10-26 15:28:59,261 [main           ] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-56093-1445887739131-0:1) is starting
+2015-10-26 15:28:59,281 [main           ] INFO  TransportServerThreadSupport   - Listening for connections at: tcp://vivian-Latitude-E5440:61616
+2015-10-26 15:28:59,281 [main           ] INFO  TransportConnector             - Connector openwire Started
+2015-10-26 15:28:59,367 [main           ] INFO  Server                         - jetty-7.6.7.v20120910
+2015-10-26 15:28:59,450 [main           ] INFO  ContextHandler                 - started o.e.j.s.ServletContextHandler{/,null}
+2015-10-26 15:28:59,477 [main           ] INFO  AbstractConnector              - Started SelectChannelConnector@0.0.0.0:8080
+2015-10-26 15:28:59,477 [main           ] INFO  TransportConnector             - Connector http Started
+2015-10-26 15:28:59,479 [main           ] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-56093-1445887739131-0:1) started
+2015-10-26 15:28:59,480 [main           ] INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2015-10-26 16:00:50,974 [0.1:43931@61616] WARN  Transport                      - Transport Connection to: tcp://127.0.0.1:43931 failed: java.io.EOFException
+2015-10-26 16:00:50,984 [0.1:43932@61616] WARN  Transport                      - Transport Connection to: tcp://127.0.0.1:43932 failed: java.io.EOFException
+2015-10-26 16:00:53,211 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-56093-1445887739131-0:1) is shutting down
+2015-10-26 16:00:54,247 [MQ ShutdownHook] INFO  TransportConnector             - Connector openwire Stopped
+2015-10-26 16:00:54,260 [MQ ShutdownHook] INFO  ContextHandler                 - stopped o.e.j.s.ServletContextHandler{/,null}
+2015-10-26 16:00:54,314 [MQ ShutdownHook] INFO  TransportConnector             - Connector http Stopped
+2015-10-26 16:00:54,336 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-56093-1445887739131-0:1) uptime 31 minutes
+2015-10-26 16:00:54,336 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-56093-1445887739131-0:1) is shutdown
+2015-10-26 16:01:54,595 [main           ] INFO  XBeanBrokerFactory$1           - Refreshing org.apache.activemq.xbean.XBeanBrokerFactory$1@2e5c649: startup date [Mon Oct 26 16:01:54 EDT 2015]; root of context hierarchy
+2015-10-26 16:01:55,347 [main           ] INFO  BrokerService                  - Using Persistence Adapter: MemoryPersistenceAdapter
+2015-10-26 16:01:55,454 [JMX connector  ] INFO  ManagementContext              - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2015-10-26 16:01:55,486 [main           ] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-56382-1445889715363-0:1) is starting
+2015-10-26 16:01:55,497 [main           ] INFO  TransportServerThreadSupport   - Listening for connections at: tcp://vivian-Latitude-E5440:61616
+2015-10-26 16:01:55,498 [main           ] INFO  TransportConnector             - Connector openwire Started
+2015-10-26 16:01:55,569 [main           ] INFO  Server                         - jetty-7.6.7.v20120910
+2015-10-26 16:01:55,608 [main           ] INFO  ContextHandler                 - started o.e.j.s.ServletContextHandler{/,null}
+2015-10-26 16:01:55,636 [main           ] INFO  AbstractConnector              - Started SelectChannelConnector@0.0.0.0:8080
+2015-10-26 16:01:55,636 [main           ] INFO  TransportConnector             - Connector http Started
+2015-10-26 16:01:55,638 [main           ] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-56382-1445889715363-0:1) started
+2015-10-26 16:01:55,638 [main           ] INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2015-10-26 16:14:14,440 [0.1:43967@61616] WARN  Transport                      - Transport Connection to: tcp://127.0.0.1:43967 failed: java.io.EOFException
+2015-10-26 16:14:14,444 [0.1:43966@61616] WARN  Transport                      - Transport Connection to: tcp://127.0.0.1:43966 failed: java.io.EOFException
+2015-10-26 16:14:55,086 [ception Handler] WARN  Transport                      - Transport Connection to: tcp://127.0.0.1:43991 failed: java.io.IOException: Wire format negotiation timeout: peer did not send his wire format.
+2015-10-26 16:35:32,492 [0.1:43990@61616] WARN  Transport                      - Transport Connection to: tcp://127.0.0.1:43990 failed: java.io.EOFException
+2015-10-26 16:35:32,492 [0.1:43989@61616] WARN  Transport                      - Transport Connection to: tcp://127.0.0.1:43989 failed: java.io.EOFException
+2015-10-26 16:35:45,486 [0.1:44053@61616] WARN  Service                        - Async error occurred: java.lang.IllegalStateException: Cannot remove session from connection that had not been registered: ID:vivian-Latitude-E5440-50550-1445891741509-1:1
+java.lang.IllegalStateException: Cannot remove session from connection that had not been registered: ID:vivian-Latitude-E5440-50550-1445891741509-1:1
+	at org.apache.activemq.broker.TransportConnection.processRemoveSession(TransportConnection.java:618)
+	at org.apache.activemq.command.RemoveInfo.visit(RemoveInfo.java:74)
+	at org.apache.activemq.broker.TransportConnection.service(TransportConnection.java:294)
+	at org.apache.activemq.broker.TransportConnection$1.onCommand(TransportConnection.java:152)
+	at org.apache.activemq.transport.MutexTransport.onCommand(MutexTransport.java:50)
+	at org.apache.activemq.transport.WireFormatNegotiator.onCommand(WireFormatNegotiator.java:113)
+	at org.apache.activemq.transport.AbstractInactivityMonitor.onCommand(AbstractInactivityMonitor.java:256)
+	at org.apache.activemq.transport.TransportSupport.doConsume(TransportSupport.java:83)
+	at org.apache.activemq.transport.tcp.TcpTransport.doRun(TcpTransport.java:222)
+	at org.apache.activemq.transport.tcp.TcpTransport.run(TcpTransport.java:204)
+	at java.lang.Thread.run(Thread.java:745)
+2015-10-26 16:51:25,402 [0.1:44051@61616] WARN  Transport                      - Transport Connection to: tcp://127.0.0.1:44051 failed: java.io.EOFException
+2015-10-26 16:51:25,402 [0.1:44052@61616] WARN  Transport                      - Transport Connection to: tcp://127.0.0.1:44052 failed: java.io.EOFException
+2015-10-26 16:51:27,667 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-56382-1445889715363-0:1) is shutting down
+2015-10-26 16:51:28,352 [MQ ShutdownHook] INFO  TransportConnector             - Connector openwire Stopped
+2015-10-26 16:51:28,364 [MQ ShutdownHook] INFO  ContextHandler                 - stopped o.e.j.s.ServletContextHandler{/,null}
+2015-10-26 16:51:28,417 [MQ ShutdownHook] INFO  TransportConnector             - Connector http Stopped
+2015-10-26 16:51:28,435 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-56382-1445889715363-0:1) uptime 49 minutes
+2015-10-26 16:51:28,435 [MQ ShutdownHook] INFO  BrokerService                  - Apache ActiveMQ 5.7.0 (localhost, ID:vivian-Latitude-E5440-56382-1445889715363-0:1) is shutdown

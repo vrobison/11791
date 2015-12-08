@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<analysisEngineDescription xmlns="http://uima.apache.org/resourceSpecifier">
+	<frameworkImplementation>org.apache.uima.java</frameworkImplementation>
+	<primitive>false</primitive>
+
+	<delegateAnalysisEngineSpecifiers>
+		<delegateAnalysisEngine key="ranker_client">
+			<import name="descriptors.ranker_client"/>
+		</delegateAnalysisEngine>
+	</delegateAnalysisEngineSpecifiers>
+
+	<analysisEngineMetaData>
+		<name>Remote ranker Test</name>
+		<description>Remote passage ranker Test</description>
+
+		<version/>
+    <vendor/>
+    <configurationParameters searchStrategy="language_fallback"/>
+    <configurationParameterSettings/>
+    <flowConstraints>
+			<fixedFlow>
+				<node>ranker_client</node>
+			</fixedFlow>
+		</flowConstraints>
+		
+		<typePriorities/>
+    <fsIndexCollection/>
+    <capabilities/>
+    <operationalProperties>
+			<modifiesCas>true</modifiesCas>
+			<multipleDeploymentAllowed>false</multipleDeploymentAllowed>
+			<outputsNewCASes>false</outputsNewCASes>
+		</operationalProperties>
+	</analysisEngineMetaData>
+<resourceManagerConfiguration/>
+</analysisEngineDescription>
